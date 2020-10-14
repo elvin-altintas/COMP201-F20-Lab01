@@ -2,5 +2,5 @@
   
 int main(void)
 {
-    printf("Hello, World!\n");
+    print("Welcome to the COMP201 Lab01\n");
 }
